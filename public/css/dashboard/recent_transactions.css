@@ -1,0 +1,32 @@
+.listtile {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 12px;
+    background: #fff;
+}
+
+.listtile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.listtile-title {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.listtile-subtitle {
+    font-size: 13px;
+    color: #666;
+}
+
+.listtile-actions {
+    margin-top: 10px;
+}
+
+.listtile-actions .btn {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}

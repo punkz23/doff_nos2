@@ -1,0 +1,9 @@
+.disabled .step_no{
+    background: #ccc;
+}
+.buttonDisabled {
+    display:none;
+}
+.container .unselect {
+    display:none;
+}
